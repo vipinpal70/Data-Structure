@@ -1,0 +1,31 @@
+
+// joseph trap
+
+int n =8
+int k = 5
+List<INTEGER> L = new ArrayList<>();
+
+for(int i=0; i<n; i++){
+    l.add(i);
+}
+obj.trap(l, n, k--);
+
+
+trap (List<INTEGER>l , int n , int k){
+    int pos = 0;
+    if(l.size()==1){
+        Sys
+        return ;
+    }
+    pos = (pos +k)%l.size();
+    l.remove(pos);
+    trap(l, l.size(),k);
+}
+
+//Rat in a Maze algorithms
+
+int [][] arr = new int[4][4]; // ----> always 4*4    
+
+
+
+

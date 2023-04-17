@@ -1,4 +1,4 @@
-// Find the "Kth" max and min element of an array 
+//Find the "Kth" max and min element of an array in java?
 
 public class Dsa_3 {
     public static void K_Max(int arr[] , int k){

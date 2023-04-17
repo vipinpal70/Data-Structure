@@ -1,0 +1,17 @@
+Project 802 is a set of standards developed by the Institute of Electrical and Electronics Engineers (IEEE) for local area networks (LANs). The project was started in the 1980s and has since evolved to include several sub-standards that define various aspects of LAN communication.
+
+The name "802" comes from the fact that the project was started in February 1980, and it is a common prefix for all IEEE LAN-related standards. The most well-known standards within Project 802 are: 
+
+IEEE 802.3: This standard defines Ethernet, the most widely used LAN technology in the world. Ethernet is a network protocol that allows computers to communicate with each other by transmitting data packets over a physical medium such as copper or fiber optic cables.
+
+IEEE 802.11: This standard defines Wi-Fi, a wireless LAN technology that uses radio waves to transmit data between devices. Wi-Fi is widely used in homes, businesses, and public spaces to provide internet connectivity.
+
+IEEE 802.1: This standard defines protocols for LAN bridging, which allows different LANs to communicate with each other.
+
+Other standards within Project 802 include those for token ring networks, demand priority networks, and quality of service (QoS) in LANs.
+
+The development of Project 802 standards has greatly influenced the growth of LAN technologies and their applications. Ethernet and Wi-Fi have become ubiquitous in modern computer networking, and LAN bridging has allowed organizations to connect multiple LANs together to create larger networks.
+
+In conclusion, Project 802 is a set of LAN standards developed by the IEEE, with Ethernet and Wi-Fi being the most well-known. These standards have revolutionized computer networking and have enabled the growth of LAN technologies and their applications.
+
+ 
