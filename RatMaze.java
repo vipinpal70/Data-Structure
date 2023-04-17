@@ -5,7 +5,7 @@ public class RatMaze {
 
 	// Size of the maze
 	static int N;
-
+ 
 	/*
 	 * A utility function to print
 	 * solution matrix sol[N][N]
