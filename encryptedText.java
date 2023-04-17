@@ -16,6 +16,5 @@ public class encryptedText {
 
         }
         System.out.println(result);
-
     }
 }
